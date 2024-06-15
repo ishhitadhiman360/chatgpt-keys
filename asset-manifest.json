@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chatgpt-keys/static/css/main.f855e6bc.css",
+    "main.js": "/chatgpt-keys/static/js/main.fde43ce1.js",
+    "static/js/453.31e98c53.chunk.js": "/chatgpt-keys/static/js/453.31e98c53.chunk.js",
+    "static/media/pic1.png": "/chatgpt-keys/static/media/pic1.52e7a6f326607fd4585a.png",
+    "static/media/pic4.png": "/chatgpt-keys/static/media/pic4.02ce171491027df0c96e.png",
+    "static/media/pic3.png": "/chatgpt-keys/static/media/pic3.6e2b00432fbfbde06989.png",
+    "static/media/pic5.png": "/chatgpt-keys/static/media/pic5.572cc6c332e86ffc1d0c.png",
+    "static/media/pic2.png": "/chatgpt-keys/static/media/pic2.e07c71b20d4e6dab3d37.png",
+    "index.html": "/chatgpt-keys/index.html",
+    "main.f855e6bc.css.map": "/chatgpt-keys/static/css/main.f855e6bc.css.map",
+    "main.fde43ce1.js.map": "/chatgpt-keys/static/js/main.fde43ce1.js.map",
+    "453.31e98c53.chunk.js.map": "/chatgpt-keys/static/js/453.31e98c53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fde43ce1.js"
+  ]
+}
